@@ -14,6 +14,9 @@ FacadeTest   外观模式
 FactoryTest  工厂模式                  
 事例：创建人-男，女，null
 
+ObserverTest  观察者模式
+事例：发送即时消息/延时消息
+
 Prototype    原型模式    
 事例：克隆对象
 
